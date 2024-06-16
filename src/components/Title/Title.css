@@ -1,0 +1,6 @@
+.TitleContainer p {
+  text-transform: capitalize;
+  text-align: center;
+  font-family: var(--primary-font);
+  font-size: 2rem;
+}
